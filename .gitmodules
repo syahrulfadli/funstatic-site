@@ -1,0 +1,3 @@
+[submodule "funstatic"]
+	path = funstatic/themes
+	url = https://github.com/syahrulfadli/funstatic.git
